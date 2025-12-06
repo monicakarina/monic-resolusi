@@ -6,4 +6,8 @@ Rencana Belajar Monic
   sskkkak
   kkwsoww
 - Praktik langsung dengan project
-  laravel
+- Mengikuti pelatihan yang ada
+  laravell
+  flutter
+  PHP
+- PKL di tempat yang sesuai jurusan
