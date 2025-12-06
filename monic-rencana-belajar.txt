@@ -4,3 +4,7 @@ Rencana Belajar Monic
   smsakaka
 - Praktik langsung dengan project
 - Mengikuti pelatihan yang ada
+  laravel
+  flutter
+  PHP
+- PKL di tempat yang sesuai jurusan
