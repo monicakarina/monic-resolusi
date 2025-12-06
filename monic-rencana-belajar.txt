@@ -6,4 +6,5 @@ Rencana Belajar Monic
 - Mengikuti pelatihan yang ada
   laravel
   flutter
+  PHP
 - PKL di tempat yang sesuai jurusan
